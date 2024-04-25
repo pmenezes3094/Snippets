@@ -30,4 +30,11 @@ header {
   top: 0;
   left: 0;
   z-index: 1000;
+}
+
+footer {
+  padding: 8px 0;
+  background-color: #333333;
+  color: #ffffff;
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */
