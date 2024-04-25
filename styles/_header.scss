@@ -5,4 +5,14 @@ header {
     top: 0;
     left: 0;
     z-index: $zheader;
+    .container {
+        display: flex;
+        justify-content: space-between;
+        nav {
+            display: flex;
+            column-gap: $gutter;
+            justify-content: flex-end;
+            text-align: right;
+        }
+    }
 }
