@@ -17,4 +17,17 @@ body {
   padding: 0 50px;
   max-width: 100%;
   margin: 0 auto;
+}
+
+h1 {
+  font-family: "Bebas Neue", sans-serif;
+}
+
+header {
+  padding: 24px 0;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1000;
 }/*# sourceMappingURL=style.css.map */
